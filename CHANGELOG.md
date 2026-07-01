@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/carlosmoreira09/carrer-ops-ui/compare/career-ops-v1.10.0...career-ops-v1.11.0) (2026-07-01)
+
+
+### Features
+
+* add Next.js 16 web UI + OpenAI headless eval + remote aggregators ([21e71a3](https://github.com/carlosmoreira09/carrer-ops-ui/commit/21e71a378028414b750d27511cfab073f1cb2fae))
+
 ## [1.10.0](https://github.com/santifer/career-ops/compare/career-ops-v1.9.0...career-ops-v1.10.0) (2026-06-11)
 
 
